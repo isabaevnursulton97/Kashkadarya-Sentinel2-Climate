@@ -1,0 +1,41 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# R and RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*credentials*
+*service-account*.json
+*.pem
+*.key
+
+# QGIS temporary files
+*.qgs~
+*.qgz~
+*.gpkg-wal
+*.gpkg-shm
+
+# Windows and macOS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.old
+~$*

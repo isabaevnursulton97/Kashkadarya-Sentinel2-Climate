@@ -1,0 +1,6 @@
+"Variable","Spearman_rho_with_year","P_value_method"
+"NDVI",-0.3,"Spearman rank correlation with year"
+"Temperature",0.833333333333333,"Spearman rank correlation with year"
+"Winter precipitation",-0.366666666666667,"Spearman rank correlation with year"
+"Growing-season precipitation",-0.3,"Spearman rank correlation with year"
+"Potential evaporation",0.55,"Spearman rank correlation with year"

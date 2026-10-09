@@ -1,0 +1,8 @@
+﻿cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata below."
+title: "Field-level Sentinel-2 Vegetation Dynamics in Kashkadarya, Uzbekistan (2017–2025)"
+authors:
+  - name: "isabaevnursulton97"
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/isabaevnursulton97/Kashkadarya-Sentinel2-Climate"

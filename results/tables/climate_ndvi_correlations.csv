@@ -1,0 +1,4 @@
+"Variable","Spearman_rho","P_value","Bonferroni_P","P_value_method"
+"Temperature",-0.55,0.132776675485009,0.398330026455026,"Exact Spearman p-value (no tied ranks)"
+"Winter_Precipitation",0.933333333333333,0.000749559082892416,0.00224867724867725,"Exact Spearman p-value (no tied ranks)"
+"Growing_Season_Precipitation",0.5,0.177662037037037,0.532986111111111,"Exact Spearman p-value (no tied ranks)"
